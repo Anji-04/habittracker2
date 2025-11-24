@@ -8,9 +8,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        border: '#e5e7eb', // a light gray color
+        border: '#e5e7eb',
       },
     },
   },
+  darkMode: ["class"],
+  important: true,
   plugins: [],
 }
